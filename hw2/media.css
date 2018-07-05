@@ -1,0 +1,98 @@
+@media screen and ( min-width: 1280px) {
+    .text-after-button {
+        font-size: .7rem;
+    }
+    .vote-for-robar .heading-margin-bg1 {
+        position: relative;
+        bottom: 10px;
+    }
+    .good-day-blocks .heading-margin-bg1 {
+        position: relative;
+        bottom: 10px;
+    }
+    .vote-for-robar {
+        top: 15px;
+    }
+}
+
+
+@media screen and ( max-width: 960px) {
+    .center-container-header-text {
+        font-size: 0.7em;
+    }
+    .text-after-button {
+        font-size: .7rem;
+    }
+    .vote-for-robar {
+        position: relative;
+        top:5px;
+    }
+    .good-day-blocks h3 {
+        position: relative;
+        bottom: 8px;
+
+    }
+}
+
+
+@media screen and ( max-width: 640px) {
+    * {
+        font-size: .9em;
+    }
+
+    .center-container-header-text {
+        font-size: .6em;
+    }
+    .grey-text-area-bg2 {
+        font-size: 1.5em;
+    }
+    .logo-description {
+        top:20px;
+    }
+    .bg2-column-2 {
+        bottom: 23px;
+    }
+    .vote-for-robar {
+        top:15px;
+    }
+    .pen-text-area-bg4 {
+        font-size: 1.5em;
+    }
+    .text-area-bg-5 {
+        font-size: 1.2em;
+    }
+    .bg-8-text-area {
+        font-size: 1.5em;
+    }
+
+    form {
+        font-size: 1.5em;
+    }
+    .start-button {
+        font-size: .5em ;
+    }
+
+    .good-day-blocks .heading-margin-bg1 {
+        top:25px;
+        margin-bottom: 60px;
+    }
+    .bg2-column-2 {
+        font-size: 1em;
+    }
+
+    .text-area-good-day-blokes {
+        position: relative;
+        top:10px
+    }
+
+}
+@media screen and ( min-width: 1600px) {
+    .start-button {
+        width: 55%;
+    }
+    .text-after-button {
+        position: relative;
+        left: 20%;
+    }
+}
+
